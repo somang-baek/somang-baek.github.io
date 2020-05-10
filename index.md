@@ -3,12 +3,14 @@
 
 # My major is
 
-생명과학부
+생명과학부(Life Science)
+
 
 
 ## I am interested in
 
 미생물 실험
+
 
 ### Why?
 
